@@ -14,7 +14,7 @@ Hola, soy **Fabbian Espinoza**, estudiante de Desarrollo de Software en **Senati
 - JavaScript (básico)
 - SQL / MySQL
 - Programación orientada a objetos
-- Uso de Visual Studio Code y otros entornos
+- Uso de Visual Studio Code, asi como de dev c++.
 
 ## 🛠️ Herramientas y tecnologías
 - Visual Studio Code
