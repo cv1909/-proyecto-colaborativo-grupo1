@@ -73,3 +73,7 @@ HABILIDADES DE GRUPO :
 🗺️ Claridad de roles – Comprender y respetar los roles de Scrum: Product Owner, Scrum Master y Developers.
 
 🧑‍🤝‍🧑 Trabajo colaborativo – Ayudar, compartir responsabilidades y avanzar como un solo equipo.
+
+🎥🔗 LINK VIDEO:
+
+https://cv1909.github.io/-proyecto-colaborativo-grupo1/
