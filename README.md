@@ -10,6 +10,9 @@
 
 🧑‍💻 Campos Carlos ( SCRUM MASTER )
 
+🧑 Luis Albertto 
+
+🧑 Eduard de la Cruz
 
 Este proyecto es una simulación práctica del trabajo en equipo dentro de un entorno real de desarrollo usando Git y GitHub. 🚀
 
