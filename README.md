@@ -48,13 +48,6 @@ Resolucion :
 
 👩‍💻 Quispe Rossy 
 
-
-2. Dos personas editan la misma línea de un archivo y luego intentan unir sus ramas (Pull Request o merge)
-
-Resolucion : 
-
-🧑‍💻 Espinoza Fabbian
-
 HABILIDADES DE GRUPO :
 
 🧭 Autogestión – Capacidad de organizarse, priorizar tareas y avanzar sin supervisión constante.
